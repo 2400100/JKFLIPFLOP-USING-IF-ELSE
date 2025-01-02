@@ -48,19 +48,22 @@ their functional tables.
 6. Run the program.
 
 **PROGRAM**
+![Screenshot 2025-01-02 211326](https://github.com/user-attachments/assets/cb8e50fd-74d0-4fbb-bd76-060aa8ca65fe)
 
-![Screenshot 2024-12-26 090545](https://github.com/user-attachments/assets/31389206-513a-42d5-99d2-857330f5f777)
+
 
 Developed by: SUBIKSHA K RegisterNumber: 24001100
 
 **RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2025-01-02 211548](https://github.com/user-attachments/assets/69d3c0a3-3078-4fe3-b22e-d71ba2f07559)
 
-![Screenshot 2024-12-26 090617](https://github.com/user-attachments/assets/536d5e72-c66b-4afe-b2cf-f51ea3285500)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-26 090646](https://github.com/user-attachments/assets/b74c5774-4d94-420b-9835-bb15eb01a870)
+![Screenshot 2025-01-02 211559](https://github.com/user-attachments/assets/9c722ee7-ae5f-43a4-bdb6-cb1b0847a790)
+
 
 
 **RESULTS**
