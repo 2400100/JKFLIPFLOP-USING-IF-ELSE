@@ -48,6 +48,8 @@ their functional tables.
 6. Run the program.
 
 **PROGRAM**
+
+
 ![Screenshot 2025-01-02 211326](https://github.com/user-attachments/assets/cb8e50fd-74d0-4fbb-bd76-060aa8ca65fe)
 
 
